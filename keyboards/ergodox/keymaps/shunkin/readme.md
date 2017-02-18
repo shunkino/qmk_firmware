@@ -5,4 +5,4 @@
 * Japanese 
  
 ## Motivation
-Make comfortable layout for myself. Vim, JIS keyboard, MBP user. 
+Make comfortable layout for myself. Vim, Japanese, MBP user. 
