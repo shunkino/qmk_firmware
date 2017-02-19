@@ -1,6 +1,6 @@
 # ErgoDox EZ Shunkin's configuration
 
-## Target enviroment 
+## Target environment 
 * macOS Sierra 10.12.3
 * Japanese 
  
